@@ -1,4 +1,4 @@
-const Department = require('../department.model.js');
+const Department = require('../../department.model.js');
 const expect = require('chai').expect;
 
 describe('Department', () => {
